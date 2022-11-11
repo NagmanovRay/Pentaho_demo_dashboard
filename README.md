@@ -1,4 +1,4 @@
-# Pentaho_demo_dashboard
+# Pentaho Demo Dashboard
 Pentaho BI Dashboard
 
 In this little project I have explored Pentaho CDE in order to make simple Dashboard.
